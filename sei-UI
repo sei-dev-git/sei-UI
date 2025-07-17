@@ -1,0 +1,19 @@
+package.json
+ {
+  "name": "sei-ui",
+  "version": "1.0.0",
+  "description": "Frontend UI for SEI Sports Fans",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
